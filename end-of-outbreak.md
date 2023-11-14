@@ -6,4 +6,4 @@
 }
 </style>
 
-<iframe src="https://outbreakmodelling.shinyapps.io/end-of-outbreak/" title="End-of-outbreak app" height = "100%"> </iframe>
+<iframe src="https://outbreakmodelling.shinyapps.io/end-of-outbreak/" title="End-of-outbreak app" height = "90%"> </iframe>
