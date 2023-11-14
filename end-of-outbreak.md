@@ -6,7 +6,7 @@
 }
 </style>
 
-## Calculate the end-of-outbreak probability for outbreaks with a known transmission tree.
+## Calculate the end-of-outbreak probability for outbreaks with a known transmission tree
 
 <base target="_blank">
 <iframe src="https://outbreakmodelling.shinyapps.io/end-of-outbreak/" title="End-of-outbreak app" height = "90%"> </iframe>
