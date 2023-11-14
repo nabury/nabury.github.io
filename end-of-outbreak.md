@@ -1,7 +1,3 @@
-<head>
-  <base target="_blank">
-</head>
-
 <style type="text/css">
   iframe {
     width: 100vw;
