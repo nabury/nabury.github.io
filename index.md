@@ -1,4 +1,4 @@
-Test.
+Test
 
 <style type="text/css">
   iframe {
@@ -8,5 +8,5 @@ Test.
 }
 </style>
 
-<iframe src="https://outbreakmodelling.shinyapps.io/end-of-outbreak/" title="End-of-outbreak app" height = "800" allow = "fullscreen"> </iframe>
+<iframe src="https://outbreakmodelling.shinyapps.io/end-of-outbreak/" title="End-of-outbreak app" height = "100%"> </iframe>
 
