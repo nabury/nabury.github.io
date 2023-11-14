@@ -6,7 +6,7 @@
 }
 </style>
 
-## Calculate the end-of-outbreak probability for outbreaks with a known transmission tree
+## Calculate the end-of-outbreak probability for outbreaks with a known transmission tree.
 
 <head>
   <base target="_blank" />
