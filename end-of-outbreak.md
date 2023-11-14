@@ -10,4 +10,4 @@
 
 Full-screen version available on [shinyapps](https://outbreakmodelling.shinyapps.io/end-of-outbreak/)
 
-<iframe src="https://outbreakmodelling.shinyapps.io/end-of-outbreak/" title="End-of-outbreak app" height = "90%"> </iframe>
+<iframe src="https://outbreakmodelling.shinyapps.io/end-of-outbreak/" title="End-of-outbreak app" height = "100%"> </iframe>
